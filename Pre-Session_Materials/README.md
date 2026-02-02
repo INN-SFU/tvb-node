@@ -217,9 +217,9 @@ You do not need to reinstall Docker or re-clone `tvb-node` every time you want t
 
 ## TASK 3. Watch Past Recordings
 Please watch the first introductory video to TVB, linked below, from a similar [TVB workshop series](https://github.com/McIntosh-Lab/tvb_study_group/tree/main). We recommend watching the second video if you are unfamiliar with structural connectomes or have questions about connectome generation.
-1. [**TVB Foundational Theory**](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/IQAu9MseNzF2QrHEVJYT4otsAXD9Sh5jCzpAv5hbsXZwsRI?e=Qlkh9I) - A (nearly) math-free primer on large-scale modelling in TheVirtualBrain
+1. [**TVB Foundational Theory**](https://www.youtube.com/watch?v=Su8jnMatJTw) - A (nearly) math-free primer on large-scale modelling in TheVirtualBrain
 
-2. [**Post-processing Considerations**](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/IQAGFfiVPFMWRqVWmwzw7qZgAfo3NMAcVSizDHfWi-LuTnw?e=b9eJaw) - Imaging inputs and post-processing considerations for brain network modelling
+2. [**Post-processing Considerations _(optional)_**](https://www.youtube.com/watch?v=P9hkfTLyz2k) - Imaging inputs and post-processing considerations for brain network modelling
 
 <br>
 
