@@ -76,7 +76,8 @@ If you have questions or need technical assistance before the workshop, please *
 - [**TVB-Study-Group**](https://github.com/McIntosh-Lab/tvb_study_group/tree/main) – Materials and recordings from a similar TVB workshop series
 - [**TVB Edupack**](https://thevirtualbrain.org/tvb/zwei/newswire-educase) – Educational materials and tutorials for TVB  
 - [**TVB Google Discussion Group**](https://groups.google.com/g/tvb-users) – Community forum for questions and discussion  
-- [**TVB Source Code**](https://github.com/the-virtual-brain/tvb-root) – TVB source code open-source repository 
+- [**TVB Source Code**](https://github.com/the-virtual-brain/tvb-root) – TVB source code open-source repository
+- [**TVB Documentation**](https://docs.thevirtualbrain.org/index.html) - TVB Documentation with a Quick Search function 
 
 ---
 ## License
