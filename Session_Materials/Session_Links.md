@@ -30,7 +30,7 @@ https://docs.google.com/presentation/d/1XLSuGNzCymj1XvVeNuJO40wLieuER3iFI-f7vbXN
 
 ## FAQ
 
-Link to [Frequently Asked Questions]().
+Link to [Frequently Asked Questions](/FAQ.md).
 
 
 ## Post-Workshop Survey
