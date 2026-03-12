@@ -71,6 +71,7 @@ If you have questions or need technical assistance before the workshop, please *
 
 **Resources:**
 
+- [**Workshop Slides**](https://1sfu-my.sharepoint.com/:b:/g/personal/lrokos_sfu_ca/IQBiFuDyvqPiQ6iOR801TcRiAfZ1_EfRPaF8zcyTi3Em3pM?e=2udwmd) - PDF of slides presented during the CNS 2026 TVB Node Workshop
 - [**Annotated Bibliography**](https://1sfu-my.sharepoint.com/:w:/g/personal/lrokos_sfu_ca/IQAMSNidGLVIRZJ0yGZaRHHXAUpFNgnCqSbVPos7pRP3ytM?e=xPwgdp) – Key references for TVB and brain network modeling  
 - [**Glossary of Terms**](https://1sfu-my.sharepoint.com/:w:/g/personal/lrokos_sfu_ca/IQB6lQIG1unXRI6bQ96bwp_9AQYVia0xiGb7WnO0CaJlFJg?e=LcaQuS) – Definitions of frequently used concepts and terminology
 - [**TVB-Study-Group**](https://github.com/McIntosh-Lab/tvb_study_group/tree/main) – Materials and recordings from a similar TVB workshop series
